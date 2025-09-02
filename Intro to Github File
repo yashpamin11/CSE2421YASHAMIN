@@ -1,3 +1,6 @@
+/*By Submitting this file to carmen, I certify that I have performed all of the work to create this file and/or determine the answers found within this file myself with no assistance form any person (other than the instructor or graders of this course) and I have strictly adhered to the tenures of thOhio State University's academic integrity policy.
+
+
 simpleWriter out = new SimpleWriter();
 int[] arr = new Array[];
 int number = 0;
